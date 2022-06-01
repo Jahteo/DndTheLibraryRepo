@@ -1,1 +1,0 @@
-# Kosh_npc
