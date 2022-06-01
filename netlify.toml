@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "Poke around the notes 👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Knarl & Keppuc may regret wanting to debrief..."
+LANDING_DESCRIPTION = "Knarl & Keppuc insisted I learn to write, and then they kept asking for all those boring debriefing homeworks. So here's the best dragon's library notes. Do I get a cookie yet? Pistachio rose cooke?"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "DndTheLibrary/_001-Library_Homepage"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Chance for Hoard President! 💖"
+LANDING_TITLE = "Chance for Treasurer! ...no, wait... Vote More Treasure for Chance! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Jahteo/DndTheLibraryRepo"
@@ -33,5 +33,9 @@ SLUGIFY = "y"
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
+# Page graph only shows directly connected nodes. Default: "".
+LOCAL_GRAPH = "y"
+# If "y", clicking on graph link replaces current tab. Else, page is opened in new tab. Default: "".
+GRAPH_LINK_REPLACE = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
