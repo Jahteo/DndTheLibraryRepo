@@ -1,1 +1,0 @@
-Testing the home.md file as written.

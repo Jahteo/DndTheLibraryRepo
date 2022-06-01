@@ -8,7 +8,7 @@ LANDING_BUTTON = "Poke around the notes 👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Knarl & Keppuc insisted I learn to write, and then they kept asking for all those boring debriefing homeworks. So here's the best dragon's library notes. Do I get a cookie yet? Pistachio rose cooke?"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "DndTheLibrary/_001-Library_Homepage"
+LANDING_PAGE = "DndTheLibrary/001-Library-Homepage"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Chance for Treasurer! ...no, wait... Vote More Treasure for Chance! 💖"
 PYTHON_VERSION = "3.8"
