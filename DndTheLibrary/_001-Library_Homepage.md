@@ -20,9 +20,4 @@ Notes published: [Bestest Dragon](https://thelibrarynotes.netlify.app/)
   [[sessionTemplate_XX_{{date}}_DayXX-XXX]]
   [[from_Fight_tracker]]
   
-### Resources
-- [ ] make these private
-%%[Yetti's Mega folder](https://mega.nz/folder/EBtWxCiT#DBZnIG91shzOnaSlJPFpJQ)%%
-%%[Ren's Mega folder](https://mega.nz/folder/SEoi2azR#JOeMPvEKi6FYhOtEMNfO2Q)%%
-- Ren highly recommends [return of the lazy dm](https://mega.nz/folder/SEoi2azR#JOeMPvEKi6FYhOtEMNfO2Q/file/eM40FaQR)
   
